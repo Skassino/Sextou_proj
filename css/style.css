@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+ body{
+    overflow-x: hidden;
+ }
 a {
     color: #eddede;
     text-decoration: none;
@@ -103,7 +106,6 @@ main{
 #ajustar_medidas {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    text-align: center;
 }
 #baixar {
     display: grid;
@@ -125,7 +127,9 @@ main{
 .tamanho_telefone {
     width: 350px;
 }
-
+.telefone_meio {
+    text-align: center;
+}
 .botao {
     color: #dc3545;
     padding-left: 40px;
@@ -439,7 +443,3 @@ footer {
         text-align: left;
     } 
     } 
-
-    body{
-        overflow-x: hidden;
-    }
