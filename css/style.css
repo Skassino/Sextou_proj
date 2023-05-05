@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
- body{
-    overflow-x: hidden;
- }
 a {
     color: #eddede;
     text-decoration: none;
@@ -442,3 +439,7 @@ footer {
         text-align: left;
     } 
     } 
+
+    body{
+        overflow-x: hidden;
+    }
