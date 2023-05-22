@@ -116,7 +116,7 @@ main{
     font-size: 60px;
 }
 #ajustar_medidas ul li h2{
-    padding-top: 60px;
+    padding-top: 40px;
     font-size: 40px;
     color: aliceblue;
 }
@@ -151,6 +151,9 @@ main{
     text-align: center;
     font-size: 28px;
     
+}
+.telefone_meio {
+    text-align: center;
 }
 h1 {
     font-size: 40px;
@@ -249,7 +252,7 @@ footer {
     font-size: 50px;
 }
 #ajustar_medidas ul li h2{
-    padding-top: 60px;
+    padding-top: 40px;
     font-size: 30px;
     color: aliceblue;
 }
